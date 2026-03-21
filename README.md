@@ -1,12 +1,14 @@
-# New Project Bootstrap
+# 场迹 TRACE
 
-这是一个基于空白 PRD 初始化的项目母版仓库。
+这是 `场迹 TRACE` 项目的工程仓库。
+
+`TRACE` 是一套面向匹克球场馆的智能记分与赛后战绩同步系统，核心覆盖平板主控、大屏展示、无线得分按键和用户 App 赛后扫码领取。
 
 ## 当前状态
 
-- `prd.md` 为空，因此本仓库未绑定具体业务需求
-- 已完成项目目录、协作规范、GitHub 模板、Linear/Notion 初始化配套文档
-- 后续只需要补齐真实需求，即可在此基础上继续细化实施
+- 已建立项目目录、协作规范、GitHub 模板和基础 CI
+- 已完成 GitHub、Linear、Notion 的初始化与命名统一
+- 当前仓库仍以项目启动资料为主，真实工程框架尚待初始化
 
 ## 目录概览
 
@@ -20,7 +22,6 @@
 
 ## 推荐下一步
 
-1. 补充 `prd.md` 的业务背景、目标用户、核心流程与验收标准
-2. 在 `docs/architecture.md` 中确认技术选型
-3. 按 `docs/roadmap.md` 和 Linear 初始任务继续拆解
-
+1. 将正式 PRD 同步到仓库内 `prd.md`
+2. 在 `docs/architecture.md` 中确认 `TRACE` 的技术选型
+3. 按 `docs/roadmap.md` 和 Linear 初始任务继续推进

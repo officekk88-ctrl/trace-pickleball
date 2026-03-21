@@ -4,11 +4,17 @@
 
 - 2026-03-21
 
+## 当前命名
+
+- 中文名：场迹
+- 英文名：TRACE
+- GitHub 仓库名：`trace-pickleball`
+
 ## 初始化前提
 
-- `e:\dev\prd.md` 为空文件
-- 因缺少业务需求，本次初始化采用“项目母版”策略
-- 未强行确定具体技术栈，仅搭建后续可继续落地的基础设施
+- 初始创建时 `e:\dev\prd.md` 为空文件
+- 后续已根据正式 PRD 将项目名称统一为 `场迹 TRACE`
+- 当前仍未强行确定具体技术栈，仅完成启动资料和协作系统初始化
 
 ## 本地结果
 
@@ -20,15 +26,15 @@
 
 ## GitHub
 
-- 仓库：`https://github.com/officekk88-ctrl/new-project-20260321`
+- 仓库：`https://github.com/officekk88-ctrl/trace-pickleball`
 - 可见性：Private
 - 已创建标签：`kind:feature`、`kind:bug`、`kind:docs`、`status:blocked`
-- 已创建里程碑：`Project Bootstrap`
+- 已创建里程碑：`TRACE Launch`
 - 备注：远端仓库已创建成功，但首个 `git push` 因网络连接重置未完成，当前远端仍未同步本地文件
 
 ## Linear
 
-- 项目：`https://linear.app/yingjun1983/project/新项目初始化空-prd-母版-e4416567bb19`
+- 项目：`https://linear.app/yingjun1983/project/场迹-trace-0ebfbe5cae5e`
 - 里程碑：`Phase 0 - 启动与需求补全`
 - 文档：`https://linear.app/yingjun1983/document/项目初始化说明-ce051c43e666`
 - 初始任务：
