@@ -30,11 +30,11 @@
 - 可见性：Private
 - 已创建标签：`kind:feature`、`kind:bug`、`kind:docs`、`status:blocked`
 - 已创建里程碑：`TRACE Launch`
-- 备注：远端仓库已创建成功，但首个 `git push` 因网络连接重置未完成，当前远端仍未同步本地文件
+- 备注：远端仓库已完成重命名，并已成功推送本地代码
 
 ## Linear
 
-- 项目：`https://linear.app/yingjun1983/project/场迹-trace-0ebfbe5cae5e`
+- 项目：`https://linear.app/yingjun1983/project/场迹-trace-e4416567bb19`
 - 里程碑：`Phase 0 - 启动与需求补全`
 - 文档：`https://linear.app/yingjun1983/document/项目初始化说明-ce051c43e666`
 - 初始任务：
@@ -55,4 +55,4 @@
 1. 优先补齐真实 PRD
 2. 基于 PRD 选择正式技术栈
 3. 在当前母版目录上初始化真实工程
-4. 网络恢复后执行 `git push -u origin main`
+4. 基于 `场迹 TRACE` 开始初始化真实工程框架
